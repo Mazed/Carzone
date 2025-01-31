@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-()ikt3skmt&pknr+k$hj(y678x8qeuvln)utyuqc!fmx8e1o=s
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['carzone-project-026c4015ce9e.herokuapp.com','*']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
